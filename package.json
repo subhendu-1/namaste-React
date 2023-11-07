@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Subhendu Adak is a React Developer",
+  "main": "App.js",
+  "scripts": {
+    "test": "chest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhendu-1/namaste-React.git"
+  },
+  "keywords": [
+    "React",
+    "Developer"
+  ],
+  "author": "Subhendu Adak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhendu-1/namaste-React/issues"
+  },
+  "homepage": "https://github.com/subhendu-1/namaste-React#readme"
+}
