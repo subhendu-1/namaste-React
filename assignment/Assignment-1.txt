@@ -1,0 +1,23 @@
+1)what is emmet?
+Emmet is a powerful and widely used toolkit for web developers that simplifies and accelerates the process of writing HTML and CSS code
+it provides a shorthand syntax for generating code quickly and efficiently.
+
+2)diff between a library and framework?
+A library is a collection of pre-written functions, classes, and modules that you can use in your code.
+Libraries are typically designed to be reusable, and you can use them in various parts of your application or across multiple projects.
+A framework is a pre-established structure and set of rules that dictate the architecture and flow of your application.
+
+In summary, the key distinction is that libraries provide specific, individual functions or modules that you can use in your code, while frameworks offer a structured, opinionated architecture and control flow for your entire application. Your choice between using a library or a framework often depends on the level of control and structure you desire in your project.
+
+3)User
+what is CDN ? why do we use it?
+
+CDN stands for Content Delivery Network. It is a network of geographically distributed servers and data centers that work together to deliver web content, such as text, images, stylesheets, JavaScript, and multimedia files, to users more efficiently and with higher availability. CDNs are used to improve the performance, reliability, and security of content delivery on the internet.
+
+4)why react is known as React?
+
+React, the JavaScript library for building user interfaces, is known as "React" due to its fundamental concept of reactive and efficient UI updates. The name "React" reflects its core design philosophy, which is to automatically and efficiently update the user interface in response to changes in application data. Here's why it's called "React":
+
+5)what is cross-origin in the script tag?
+
+In web development, the "cross-origin" concept refers to interactions between web pages or web applications that come from different domains (or origins). Browsers enforce a security policy known as the "same-origin policy," which restricts web pages from making requests to a different domain than the one from which they originated. This policy is in place to protect users from potentially malicious actions and unauthorized data access.
